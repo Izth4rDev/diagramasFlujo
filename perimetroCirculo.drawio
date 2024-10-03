@@ -24,7 +24,7 @@
             <mxPoint x="95" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oqBFZL2-qDP8keXE3h4_-5" value="es mayor de edad" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oqBFZL2-qDP8keXE3h4_-5" value="edad &amp;gt;= 18" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oqBFZL2-qDP8keXE3h4_-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oqBFZL2-qDP8keXE3h4_-7" target="oqBFZL2-qDP8keXE3h4_-12">
